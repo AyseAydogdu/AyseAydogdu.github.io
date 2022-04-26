@@ -64,7 +64,7 @@
         var date = nowDate.getDate()+'/'+(nowDate.getMonth()+1)+'/'+nowDate.getFullYear();
         $(this).text(date);
     }).mouseleave(function() { 
-        $(this).text("Ahmet AKAN");
+        $(this).text("Ayşe AYDOĞDU");
     });
 
     $('.dropdown-toggle').click(function() {
