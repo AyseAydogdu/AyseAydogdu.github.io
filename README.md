@@ -26,7 +26,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 5. Open a Pull Request
 
 ## License 👨🏽‍💻
-Distributed under the MIT License. See [LICENSE](https://github.com/AkanAhmet/AkanAhmet.github.io/blob/main/LICENSE) for more information.  
+Distributed under the MIT License. See [LICENSE](https://github.com/AyseAydogdu/AyseAydogdu.github.io/blob/main/LICENSE) for more information.  
 
 ## Contact 🖋
 You may want get contact to me for any errors or questions at ayseaydogdu122@gmail.com.

@@ -10937,7 +10937,7 @@ a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
-}
+} 
 
 body {
   padding-top: 3.375rem;
@@ -11094,7 +11094,7 @@ section.resume-section .resume-section-content {
 }
 
 .mobile-photo img {
-  border: 7px solid #3838C1 !important;
+  border: 7px solid #B565A7 !important;
   width: auto;
   max-width: 60%;
   height: auto;
@@ -11151,9 +11151,9 @@ section.resume-section .resume-section-content {
 
 /*  Mobile nav menu - :not(:hover) animation*/
 
-@keyframes ahmet{
+@keyframes ayse{
    from{}
-   to{ background: #4F95DA;  transition: 1.3s ease-in-out; }
+   to{ background: 	#C71585;  transition: 1.3s ease-in-out; }
 }
 
 
@@ -11163,5 +11163,5 @@ section.resume-section .resume-section-content {
 }
 
 .navbar-toggler:not(:hover) {
-  animation: ahmet 1.3s infinite;
+  animation: ayse 1.3s infinite;
 }
